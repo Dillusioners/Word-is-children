@@ -3,7 +3,6 @@
 # * Word - experience
 # * Info - This is my efficient solution to Euler problem after gaining experience as a programmer
 # * Bibliography - https://projecteuler.net/problem=14
-# 
 
 #Creating a dictionary where key is number and value is its collatz sequence amount
 sequences = {1:1}
